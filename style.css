@@ -1,0 +1,78 @@
+/* Jon Gomez  6/17/18 */
+
+html   {
+        background-color: #33ccff;
+}
+
+h1     {
+        text-align: center;
+}
+
+#form   {
+        text-align: center;
+}
+
+button  {
+        background-color: #e6e6e6;
+        border: 1px solid black;
+        border-radius: 5px;
+        position: relative;
+        top: 2em;
+        font-size: 15px;
+        padding: 8px;
+}
+
+img  {
+     width: 90px;
+     height: 90px;
+     float: left;
+}
+
+#idCard {
+        font-family: 'Poppins', sans-serif;
+        position: relative;
+        padding: 8px;
+        left: 32em;
+        top: 5em;
+        background-color: #ff99ff;
+        border: 5px solid black;
+        border-style: groove;
+        border-radius: 20px;
+        height: 13em;
+        width: 25em;
+}
+
+#postFullName   {
+                position: relative;
+                text-align: center;
+                left: 27px;
+                width: 50%;
+                padding: 35px;
+                margin-left: 80px;
+
+}
+
+#postAge    {
+            position: relative;
+            text-align: left;
+            top: 5px;
+            left: 17px;
+            right: 100px;
+            width: 50%;
+            margin-right: 0px;
+            padding: 0px;
+}
+
+#postPhoneNumber     {
+                     position: relative;
+                     top: 21px;
+                     left: 17px;
+                     width: 50%;
+}
+
+#postAddress     {
+                 position: relative;
+                 top: 34px;
+                 left: 17px;
+                 width: 50%;
+}
